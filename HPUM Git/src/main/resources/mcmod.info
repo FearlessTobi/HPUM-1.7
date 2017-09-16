@@ -1,0 +1,16 @@
+[
+{
+  "modid": "harrypottermod",
+  "name": "Harry Potter Universe mod",
+  "description": "The Harry Potter Universe mod",
+  "version": "1.4",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Snidgert / fearlessTobi (Code enhancement)"],
+  "credits": "Snidgert for creating this awesome mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
